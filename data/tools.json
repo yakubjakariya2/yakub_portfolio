@@ -1,0 +1,102 @@
+{
+    "tools": [
+        {
+            "id": 1,
+            "icon": "devicon-django-plain",
+            "title": "Django Development",
+            "description": "Building dynamic web applications with Django MVC architecture, ORM, and authentication systems.",
+            "tags": "Django • Python • Web"
+        },
+        {
+            "id": 2,
+            "icon": "devicon-react-plain",
+            "title": "React.js Applications",
+            "description": "Creating interactive user interfaces with React.js and modern JavaScript.",
+            "tags": "React • JavaScript • Frontend"
+        },
+        {
+            "id": 3,
+            "icon": "devicon-vuejs-plain",
+            "title": "Vue.js Development",
+            "description": "Building progressive web applications with Vue.js framework.",
+            "tags": "Vue.js • JavaScript • PWA"
+        },
+        {
+            "id": 4,
+            "icon": "devicon-wordpress-plain",
+            "title": "WordPress Development",
+            "description": "Custom WordPress themes, plugins, and website optimization.",
+            "tags": "WordPress • PHP • CMS"
+        },
+        {
+            "id": 5,
+            "icon": "fas fa-search",
+            "title": "SEO Optimization",
+            "description": "Technical SEO, website optimization, and performance enhancement.",
+            "tags": "SEO • Analytics • Optimization"
+        },
+        {
+            "id": 6,
+            "icon": "devicon-python-plain",
+            "title": "Python Automation",
+            "description": "Process automation and AI implementation using Python.",
+            "tags": "Python • Automation • AI"
+        },
+        {
+            "id": 7,
+            "icon": "devicon-flask-plain",
+            "title": "Flask Applications",
+            "description": "Lightweight web applications built with Flask framework.",
+            "tags": "Flask • Python • Web"
+        },
+        {
+            "id": 8,
+            "icon": "fas fa-chart-line",
+            "title": "Data Analysis",
+            "description": "Data analysis and visualization with Pandas, NumPy, and Matplotlib.",
+            "tags": "Python • Data • Analysis"
+        },
+        {
+            "id": 9,
+            "icon": "devicon-tailwindcss-plain",
+            "title": "Tailwind CSS",
+            "description": "Modern, responsive UI design with Tailwind CSS framework.",
+            "tags": "Tailwind • CSS • Design"
+        },
+        {
+            "id": 10,
+            "icon": "devicon-nextjs-plain",
+            "title": "Next.js Projects",
+            "description": "Server-side rendering and static site generation with Next.js.",
+            "tags": "Next.js • React • SSR"
+        },
+        {
+            "id": 11,
+            "icon": "fas fa-robot",
+            "title": "AI & Machine Learning",
+            "description": "Exploring Artificial Intelligence and machine learning concepts.",
+            "tags": "AI • ML • Python"
+        },
+        {
+            "id": 12,
+            "icon": "devicon-kalilinux-plain",
+            "title": "Cybersecurity Tools",
+            "description": "Familiar with Kali Linux, Nmap, and ethical hacking concepts.",
+            "tags": "Security • Kali • Nmap"
+        },
+        {
+            "id": 13,
+            "icon": "fas fa-database",
+            "title": "Database Management",
+            "description": "Database design, management, and optimization.",
+            "tags": "SQL • Database • ORM"
+        },
+        {
+            "id": 14,
+            "icon": "fas fa-mobile-alt",
+            "title": "Responsive Design",
+            "description": "Creating mobile-first, responsive web designs.",
+            "tags": "Responsive • Mobile • Design"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "description": "If you're searching for a developer who understands your vision and can turn your idea into a real, modern web application, then I'm here for you. Check out my projects, explore my tools, and send me a message — I'll work with full dedication to make your project a success.",
+    "contactInfo": {
+        "email": "yakubjakariya1@gmail.com",
+        "social": [
+            {"icon": "fab fa-github", "url": "#"},
+            {"icon": "fab fa-linkedin", "url": "#"},
+            {"icon": "fab fa-twitter", "url": "#"}
+        ]
+    }
+}

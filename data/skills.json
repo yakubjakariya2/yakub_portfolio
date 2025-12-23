@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "Programming Languages",
+            "skills": [
+                {"name": "Java", "icon": "devicon-java-plain colored"},
+                {"name": "Python", "icon": "devicon-python-plain colored"},
+                {"name": "JavaScript", "icon": "devicon-javascript-plain colored"}
+            ]
+        },
+        {
+            "name": "Web Technologies",
+            "skills": [
+                {"name": "HTML", "icon": "devicon-html5-plain colored"},
+                {"name": "CSS", "icon": "devicon-css3-plain colored"},
+                {"name": "WordPress", "icon": "devicon-wordpress-plain colored"},
+                {"name": "React.js", "icon": "devicon-react-plain colored"},
+                {"name": "Vue.js", "icon": "devicon-vuejs-plain colored"},
+                {"name": "Next.js", "icon": "devicon-nextjs-plain colored"},
+                {"name": "Tailwind CSS", "icon": "devicon-tailwindcss-plain colored"}
+            ]
+        },
+        {
+            "name": "Python Frameworks & Libraries",
+            "skills": [
+                {"name": "Django", "icon": "devicon-django-plain colored"},
+                {"name": "Flask", "icon": "devicon-flask-plain colored"},
+                {"name": "Pandas", "icon": "devicon-pandas-plain colored"},
+                {"name": "NumPy", "icon": "devicon-numpy-plain colored"},
+                {"name": "Matplotlib", "icon": "fas fa-chart-line"},
+                {"name": "Requests", "icon": "fas fa-exchange-alt"}
+            ]
+        },
+        {
+            "name": "AI & Automation",
+            "skills": [
+                {"name": "Artificial Intelligence", "icon": "fas fa-robot"},
+                {"name": "Automation AI", "icon": "fas fa-cogs"},
+                {"name": "Process Automation", "icon": "fas fa-stream"}
+            ]
+        },
+        {
+            "name": "Cyber & Networking",
+            "skills": [
+                {"name": "Kali Linux", "icon": "devicon-kalilinux-plain colored"},
+                {"name": "Nmap", "icon": "fas fa-network-wired"},
+                {"name": "Ethical Hacking", "icon": "fas fa-shield-alt"}
+            ]
+        },
+        {
+            "name": "SEO & Data Analysis",
+            "skills": [
+                {"name": "Technical SEO", "icon": "fas fa-search"},
+                {"name": "JSON Data Handling", "icon": "fas fa-code"},
+                {"name": "Website Optimization", "icon": "fas fa-chart-bar"}
+            ]
+        }
+    ]
+}
