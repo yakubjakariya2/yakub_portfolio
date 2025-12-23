@@ -1,0 +1,14 @@
+{
+  "name": "yakub-portfolio",
+  "version": "1.0.0",
+  "description": "Yakub Jakariya Portfolio",
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build process needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["portfolio", "webgpu", "vfx"],
+  "author": "Yakub Jakariya",
+  "license": "MIT"
+}

@@ -1,0 +1,82 @@
+{
+    "stories": [
+        {
+            "id": 1,
+            "image": "assets/images/story/Yakub Jakariya story (2).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 2,
+            "image": "assets/images/story/Yakub Jakariya story (1).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 3,
+            "image": "assets/images/story/Yakub Jakariya story (3).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 4,
+            "image": "assets/images/story/Yakub Jakariya story (4).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 5,
+            "image": "assets/images/story/Yakub Jakariya story (5).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 6,
+            "image": "assets/images/story/Yakub Jakariya story (6).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 7,
+            "image": "assets/images/story/Yakub Jakariya story (7).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 8,
+            "image": "assets/images/story/Yakub Jakariya story (8).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 9,
+            "image": "assets/images/story/Yakub Jakariya story (9).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 10,
+            "image": "assets/images/story/Yakub Jakariya story (10).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 11,
+            "image": "assets/images/story/Yakub Jakariya story (11).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 12,
+            "image": "assets/images/story/Yakub Jakariya story (12).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        },
+        {
+            "id": 13,
+            "image": "assets/images/story/Yakub Jakariya story (13).png",
+            "avatar": "assets/images/Yakub Profie.png",
+            "name": "Yakub Jakariya"
+        }
+    ]
+}
